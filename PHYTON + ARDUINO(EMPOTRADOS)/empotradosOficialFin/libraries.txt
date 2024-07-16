@@ -1,0 +1,11 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+DHT sensor library for ESPx
+Adafruit GFX Library
+Adafruit ILI9341
+TFT_eSPI
+HX711
+Bounce2
+ESP32Servo
+WebSerial
